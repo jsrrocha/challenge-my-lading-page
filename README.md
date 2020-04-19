@@ -1,3 +1,6 @@
+Hpspedado em:
+https://my-lading-page-challenge.netlify.app
+
 Primeiro desafio do treinamento Hiring Coders do Gama Academy:
 
 Chegou a hora de vocês usarem tudo que aprenderam de HTML, CSS e GIT para construir uma landing page com as 6 melhores notícias sobre o COVID-19 na sua opinião. Para isso, vocês devem encontrar pelo menos dois tipos de notícia entre texto, vídeo e áudio.
