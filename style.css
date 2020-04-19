@@ -164,3 +164,21 @@ body{
 	font-size: 20px;
 } 
 
+@media only screen and (max-width:480px) {
+
+	h1{
+		font-size: 14px;
+	}
+
+	h2{
+		font-size: 12px;
+	}
+	
+	#icon-news{ 
+		font-size: 25px;
+	} 
+
+	.content-news{
+		font-size: 10px;
+	}
+}
